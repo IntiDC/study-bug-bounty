@@ -74,6 +74,7 @@ My notes from [Hunting Evasive Vulnerabilities: Finding Flaws That Others Miss b
 <ul>
   <li><a href="https://www.hackerone.com/">Hackerone</a></li>
   <li><a href="https://www.bugcrowd.com/">Bug Crowd</a></li>
+  <li><a href="https://www.intigriti.com/">Intigriti</a></li>
   <li><a href="https://www.cobalt.io/">Cobalt</a></li>
   <li><a href="https://www.synack.com/">Synack</a></li>
   <li><a href="https://immunefi.com/">ImmuneFi</a></li>
