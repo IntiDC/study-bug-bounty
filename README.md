@@ -72,8 +72,9 @@ My notes from [Hunting Evasive Vulnerabilities: Finding Flaws That Others Miss b
 
 ### Platform / Companies
 <ul>
+  <li><a href="https://www.intigriti.com/">Intigriti</a></li>
   <li><a href="https://www.hackerone.com/">Hackerone</a></li>
-  <li><a href="https://www.bugcrowd.com/">Bug Crowd</a></li>
+  <li><a href="https://www.bugcrowd.com/">Bugcrowd</a></li>
   <li><a href="https://www.cobalt.io/">Cobalt</a></li>
   <li><a href="https://www.synack.com/">Synack</a></li>
   <li><a href="https://immunefi.com/">ImmuneFi</a></li>
@@ -81,6 +82,7 @@ My notes from [Hunting Evasive Vulnerabilities: Finding Flaws That Others Miss b
   <li><a href="https://huntr.dev/">Huntr (OSS Bounty)</a></li>
   <li><a href="https://www.facebook.com/whitehat">Facebook</a></li>
   <li><a href="https://www.google.com/about/appsecurity/">Google</a></li>
+  <li><a href="https://www.microsoft.com/en-us/msrc/bounty">Microsoft</a></li>
 </ul>
 
 ### Writeups
